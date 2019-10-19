@@ -8,7 +8,7 @@ Fork, plan and track.
 - [ ] Fluent Python
 - [ ] Effective Python
 - [ ] JavaScript: The Good Parts
-- [ ] Learn Go with Tests
+- [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ### Design
 - [x] Clean Code
