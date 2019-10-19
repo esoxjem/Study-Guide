@@ -32,7 +32,7 @@
 
 ### System Design & Architecture
 - [x] Clean Architecture
-- [ ] System Design Primer
+- [ ] [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [x] Building Evolutionary Architectures
 - [ ] Design It!
 - [ ] Designing Data Intensive Applications
@@ -47,6 +47,6 @@
 ### Courses
 - [ ] [Programming Languages - University of Washington](https://www.coursera.org/learn/programming-languages/)
 - [ ] [Structure and Interpretation of Computer Programs - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
-- [x] [CS50: Introduction to Computer Science - Harvard University](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
-- [ ] [Introduction to Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [x] [CS61B: Data Structures - UC Berkeley](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
+- [x] [CS50: Introduction to Computer Science - Harvard University](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
+- [ ] [Introduction to Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [x] [CS61B: Data Structures - UC Berkeley](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
