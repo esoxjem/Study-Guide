@@ -9,6 +9,7 @@ Fork, plan and track.
 - [ ] Effective Python
 - [ ] JavaScript: The Good Parts
 - [ ] [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [ ] [It starts with Clojure](https://github.com/anan44/it-starts-with-clojure)
 
 ### Design
 - [x] Clean Code
