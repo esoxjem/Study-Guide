@@ -49,6 +49,7 @@ Fork, plan and track.
 - [x] Pragmatic Thinking and Learning: Refactor Your Wetware
 - [x] The Pragmatic Programmer
 - [x] Apprenticeship Patterns
+- [x] Extreme Programming Explained
 
 ## Papers
 - [ ] [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
