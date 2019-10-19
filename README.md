@@ -1,4 +1,5 @@
-# Pragmatic Software Engineering Guide
+# Pragmatic Software Engineering Study Guide
+
 
 ### Languages
 - [x] Head First Java
