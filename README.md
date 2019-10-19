@@ -1,6 +1,7 @@
 # Pragmatic Software Engineering Study Guide
 Fork, plan and track.
 
+## Books
 ### Languages
 - [x] Head First Java
 - [x] Effective Java
@@ -49,12 +50,12 @@ Fork, plan and track.
 - [x] The Pragmatic Programmer
 - [x] Apprenticeship Patterns
 
-### Papers
+## Papers
 - [ ] [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [ ] [Out of the Tar Pit](https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
 - [ ] [API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf)
 
-### Courses
+## Courses
 - [ ] [Programming Languages - University of Washington](https://www.coursera.org/learn/programming-languages/)
 - [ ] [Structure and Interpretation of Computer Programs - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 - [x] [CS50: Introduction to Computer Science - Harvard University](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
