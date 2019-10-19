@@ -22,6 +22,8 @@ Fork, plan and track.
 
 ### Networks
 - [x] High Performance Browser Networking
+- [ ] HTTP: The Definitive Guide
+
 
 ### Operating Systems
 - [ ] Art of Unix Programming
@@ -51,3 +53,4 @@ Fork, plan and track.
 - [x] [CS50: Introduction to Computer Science - Harvard University](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl)
 - [ ] [Introduction to Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [x] [CS61B: Data Structures - UC Berkeley](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
+- [ ] [Computer Networks - University of Washington](https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am)
