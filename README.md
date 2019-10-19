@@ -27,6 +27,7 @@ Fork, plan and track.
 ### Operating Systems
 - [ ] Art of Unix Programming
 - [ ] Operating Systems: Three Easy Pieces
+- [ ] [What every programmer should know about memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ### Database
 - [ ] Head First SQL
