@@ -19,6 +19,7 @@ Fork, plan and track.
 - [x] DDD Distilled
 - [x] TDD by Example
 - [ ] Working Effectively with Legacy Code
+- [ ] [Execution in the Kiingdom of Nouns](https://www.eecis.udel.edu/~decker/courses/280f07/paper/KingJava.pdf)
 
 ### Networks
 - [x] High Performance Browser Networking
