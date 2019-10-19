@@ -21,6 +21,7 @@ Fork, plan and track.
 - [x] TDD by Example
 - [ ] Working Effectively with Legacy Code
 - [ ] [Execution in the Kiingdom of Nouns](https://www.eecis.udel.edu/~decker/courses/280f07/paper/KingJava.pdf)
+- [ ] [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 
 ### Networks
 - [x] High Performance Browser Networking
