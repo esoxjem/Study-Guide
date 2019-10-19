@@ -24,7 +24,6 @@ Fork, plan and track.
 - [x] High Performance Browser Networking
 - [ ] HTTP: The Definitive Guide
 
-
 ### Operating Systems
 - [ ] Art of Unix Programming
 - [ ] Operating Systems: Three Easy Pieces
@@ -34,9 +33,9 @@ Fork, plan and track.
 - [ ] NoSQL Distilled
 
 ### System Design & Architecture
-- [x] Clean Architecture
+- [ ] Clean Architecture
 - [ ] [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [x] Building Evolutionary Architectures
+- [ ] Building Evolutionary Architectures
 - [ ] Design It!
 - [ ] Designing Data Intensive Applications
 
