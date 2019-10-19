@@ -1,5 +1,5 @@
 # Pragmatic Software Engineering Study Guide
-
+Fork, plan and track.
 
 ### Languages
 - [x] Head First Java
