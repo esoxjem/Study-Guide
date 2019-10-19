@@ -1,25 +1,25 @@
 # Pragmatic Software Engineering Guide
 
 ### Languages
-- [ ] Head First Java
-- [ ] Effective Java
-- [ ] Java Concurrency in Practice
+- [x] Head First Java
+- [x] Effective Java
+- [x] Java Concurrency in Practice
 - [ ] Fluent Python
 - [ ] Effective Python
 - [ ] JavaScript: The Good Parts
 - [ ] Learn Go with Tests
 
 ### Design
-- [ ] Clean Code
+- [x] Clean Code
 - [ ] Head First Design Patterns
-- [ ] Refactoring: 2nd Edition
+- [x] Refactoring: 2nd Edition
 - [ ] Refactoring to Patterns
-- [ ] Domain Driven Design
-- [ ] TDD by Example
+- [x] Domain Driven Design
+- [x] TDD by Example
 - [ ] Working Effectively with Legacy Code
 
 ### Networks
-- [ ] High Performance Browser Networking
+- [x] High Performance Browser Networking
 
 ### Operating Systems
 - [ ] Art of Unix Programming
@@ -30,22 +30,22 @@
 - [ ] NoSQL Distilled
 
 ### System Design & Architecture
-- [ ] Clean Architecture
+- [x] Clean Architecture
 - [ ] System Design Primer
-- [ ] Building Evolutionary Architectures
+- [x] Building Evolutionary Architectures
 - [ ] Design It!
 - [ ] Designing Data Intensive Applications
 
 ### Others
-- [ ] Mythical Man Month
-- [ ] Clean Agile
-- [ ] Pragmatic Thinking and Learning: Refactor Your Wetware
-- [ ] The Pragmatic Programmer
-- [ ] Apprenticeship Patterns
+- [x] Mythical Man Month
+- [x] Clean Agile
+- [x] Pragmatic Thinking and Learning: Refactor Your Wetware
+- [x] The Pragmatic Programmer
+- [x] Apprenticeship Patterns
 
 ### Courses
 - [ ] Programming Languages - University of Washington
 - [ ] Structure and Interpretation of Computer Programs - MIT
 - [ ] CS50: Introduction to Computer Science - Harvard University
 - [ ] Introduction to Algorithms - MIT
-- [ ] CS61B: Data Structures - UC Berkeley
+- [x] CS61B: Data Structures - UC Berkeley
