@@ -65,3 +65,4 @@ Fork, plan and track.
 - [ ] [Introduction to Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [x] [CS61B: Data Structures - UC Berkeley](https://www.youtube.com/playlist?list=PLGEPPJVr9TfOt404VxZaQK-hLkcbCrTyP)
 - [ ] [Computer Networks - University of Washington](https://www.youtube.com/playlist?list=PLVEo1P9gAninM7KwP1KKolfMQdNs6P6Am)
+- [ ] [Algorithms - Shai Simnoson](https://www.youtube.com/playlist?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
